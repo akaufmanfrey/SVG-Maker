@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "svg-maker",
+  "version": "1.0.0",
+  "description": "Generates SVG images based on text inputs",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["Node", "Jest", "Inquirer", "SVG"],
+  "author": "Adam Kaufman-Frey",
+  "license": "MIT"
+}
