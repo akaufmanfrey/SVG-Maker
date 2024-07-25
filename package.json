@@ -14,7 +14,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "keywords": ["Node", "Jest", "Inquirer", "SVG"],
   "author": "Adam Kaufman-Frey",
