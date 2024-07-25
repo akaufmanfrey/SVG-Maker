@@ -13,7 +13,7 @@ Video of the program: https://app.screencastify.com/v3/watch/xmZTdUBrtNztEIrgmjs
 ## Installation
 Install the project into any directory. The logo file is generated in the examples folder.
 ## Usage
-Run the program using node, answer the resulting prompts, and the image will be generated for you.
+Run the program using node, answer the resulting prompts, and the image will be generated for you. The commands "node index.js" or "npm start" may be used to start the program.
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -21,6 +21,6 @@ Click the above badge to see the license.
 ## Contributing
 N/A
 ## Tests
-A testing file is in the project called 'shapes.test.js'. This file can be run using jest which, if installed, can be executed using 'node test'.
+A testing file is in the project called 'shapes.test.js'. This file can be run using jest which, if installed, can be executed using 'npm test'.
 ## Questions
 Github: https://github.com/akaufmanfrey 
